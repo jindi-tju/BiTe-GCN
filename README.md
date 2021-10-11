@@ -5,12 +5,12 @@ This repository contains the demo code of the paper:
 which has been accepted by *WSDM2021*.
 ## Requirements:
 ```text
-* torch
-* dgl
-* numpy
+* PyTorch
+* DGL
+* NumPy
 * tqdm
-* networkx
-* scipy
+* NetworkX
+* SciPy
 ```
 ## Example
 
