@@ -1,0 +1,12 @@
+{
+  "id2name": {
+    "0": "Commun.Math.Phys",
+    "1": "Phys.Rev.Lett",
+    "2": "Nucl.Phys.Proc.Suppl"
+  },
+  "name2id": {
+    "Commun.Math.Phys": 0,
+    "Phys.Rev.Lett": 1,
+    "Nucl.Phys.Proc.Suppl": 2
+  }
+}
