@@ -1,6 +1,6 @@
 # BiTe-GCN
 This repository contains the demo code of the paper:
-[BiTe-GCN: A New GCN Architecture via BidirectionalConvolution of Topology and Features on Text-Rich Networks](https://arxiv.org/pdf/2010.12157.pdf)
+>[BiTe-GCN: A New GCN Architecture via BidirectionalConvolution of Topology and Features on Text-Rich Networks](https://arxiv.org/pdf/2010.12157.pdf)
 ## Requirements:
 ```text
 * torch
